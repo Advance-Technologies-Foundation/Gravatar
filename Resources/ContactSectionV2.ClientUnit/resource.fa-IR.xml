@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Section schema: &quot;Contacts&quot;" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="بروز رسانی با اطلاعات شبکه های اجتماعی" />
+			<Item Name="LocalizableStrings.ReadSyncSettingsBadResponse.Value" Value="خطا در دریافت تنظیمات همگام سازی" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Caption" Value="SetUpSynchronization" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="نصب همگام سازی مخاطب" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="خوراک را دنبال کنید" />
+			<Item Name="LocalizableStrings.SynchronizeExchangeContactsCaption.Value" Value="همگام سازی مخاطبین مایکروسافت اکسچنج" />
+			<Item Name="LocalizableStrings.SynchronizeExchangeSuccessMessage.Value" Value="همگام سازی شروع شده است. پس از کامل شدن آن، به شما اعلام می گردد." />
+			<Item Name="LocalizableStrings.SyncSettingsNotFoundMessage.Value" Value="تنظیمات همگام سازی مشخص نشده است." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Caption" Value="SyncSettingsSetTipCaption" />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="Now your contacts will always be up-to-date!&lt;br&gt;If needed, &lt;a href=&quot;#&quot;&gt;change the settings&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="عدم پیگیری فید" />
+		</Items>
+	</Group>
+</Resources>

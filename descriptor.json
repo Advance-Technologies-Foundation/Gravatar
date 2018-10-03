@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "68b1861b-b46c-4825-984a-854734f7e741",
+    "PackageVersion": "7.8.0",
+    "Name": "Gravatar",
+    "ModifiedOnUtc": "\/Date(1538566446000)\/",
+    "Maintainer": "TSCRM",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}

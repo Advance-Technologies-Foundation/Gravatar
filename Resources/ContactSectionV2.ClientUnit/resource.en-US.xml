@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Section schema: &quot;Contacts&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Update with social networks data" />
+			<Item Name="LocalizableStrings.ReadSyncSettingsBadResponse.Value" Value="Error receiving synchronization settings." />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Caption" Value="SetUpSynchronization" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="Set up contact synchronization" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
+			<Item Name="LocalizableStrings.SynchronizeExchangeContactsCaption.Value" Value="MS Exchange contacts synchronization" />
+			<Item Name="LocalizableStrings.SynchronizeExchangeSuccessMessage.Value" Value="Synchronization is started. We will notify you when it is completed." />
+			<Item Name="LocalizableStrings.SyncSettingsNotFoundMessage.Value" Value="Synchronization settings not specified." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Caption" Value="SyncSettingsSetTipCaption" />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="Now your contacts will always be up-to-date!&lt;br&gt;If needed, &lt;a href=&quot;#&quot;&gt;change the settings&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Unfollow the feed" />
+		</Items>
+	</Group>
+</Resources>
